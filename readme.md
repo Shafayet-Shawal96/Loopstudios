@@ -1,6 +1,6 @@
-# Simple Tailwind CSS Starter
+# Loopstudios
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is a html css and tailwind project called loopstudios
 
 ## Usage
 
